@@ -1,9 +1,9 @@
-#bd-grocer-shop Server
+# bd-grocer-shop Server
 
-#Used technology --express.js ,node.js ,mongodb ,cors ,body-parser etc
+# Used technology --express.js ,node.js ,mongodb ,cors ,body-parser etc
 
 
-#web-site link: https://bd-grocer-shop.netlify.app/
+# web-site link: https://bd-grocer-shop.netlify.app/
 
 
 # full-stack-server-shafikul311
